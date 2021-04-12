@@ -8,7 +8,7 @@ import Profile from './components/Profile';
 function App() {
   return (
     
-       
+      // wrapping the app with browserRouter 
      <BrowserRouter>
       <div className="App">
         
